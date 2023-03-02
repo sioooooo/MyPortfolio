@@ -25,7 +25,7 @@ export const TopContent = memo(() => {
         <Text>前職：祖父の落花生店にて接客を中心としたアルバイト</Text>
       </div>
       <div className="text-center">
-        <div className="text-xl font-bold mb-10">自己PR</div>
+        {/* <div className="text-xl font-bold mb-10">自己PR</div>
         <div className="text-center">
           <Text>
             強み：知的好奇心
@@ -33,7 +33,7 @@ export const TopContent = memo(() => {
             <br />
             理由は、独学でプログラミングの勉強を始め、オリジナルの「NoteApp」を完成させたからです。
           </Text>
-        </div>
+        </div> */}
       </div>
     </div>
   );
